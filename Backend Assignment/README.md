@@ -1,19 +1,18 @@
 # Backend Assignment
 
-This repository is the main container for the backend assignment.
-
-As discussed, the individual tasks are implemented in separate repositories.  
+This repository is contains link to all the tasks which are kept in seperate repository to keep git history.
+ 
 Each task repository is linked below for easy access and review.
 
 ---
 
-## Task 1 – User Authentication with JWT
+## Task 1 – Authenticated Calculator API
 
 **Description:**  
-Implementation of a user authentication system using JWT, including registration, login, token verification, and protected routes.
+Implementation of a calculator backend in nestjs with jwt authentication support.
 
 **Repository Link:**  
-🔗 https://github.com/YOUR_USERNAME/task-1
+🔗 https://github.com/shadirvan-dev/task-1
 
 ---
 
