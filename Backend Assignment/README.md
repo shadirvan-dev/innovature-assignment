@@ -12,17 +12,17 @@ Each task repository is linked below for easy access and review.
 Implementation of a calculator backend in nestjs with jwt authentication support.
 
 **Repository Link:**  
-🔗 [Task 1 - Secure Calculator](https://github.com/shadirvan-dev/calc-api-jwt)
+🔗 https://github.com/shadirvan-dev/calc-api-jwt
 
 ---
 
-## Task 2 – Simple CRUD API
+## Task 2 – File Upload API
 
 **Description:**  
-Implementation of a simple CRUD (Create, Read, Update, Delete) API using Node.js and Express/NestJS.
+Implementation of a simple CRUD (Create, Read, Update, Delete) and File Upload API
 
 **Repository Link:**  
-🔗 https://github.com/YOUR_USERNAME/task-2
+🔗 Not uploaded
 
 ---
 
