@@ -12,7 +12,7 @@ Each task repository is linked below for easy access and review.
 Implementation of a calculator backend in nestjs with jwt authentication support.
 
 **Repository Link:**  
-🔗 https://github.com/shadirvan-dev/task-1
+🔗 [Task 1 - Secure Calculator](https://github.com/shadirvan-dev/calc-api-jwt)
 
 ---
 
