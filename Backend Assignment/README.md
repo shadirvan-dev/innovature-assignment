@@ -10,10 +10,10 @@ Each task repository is linked below for easy access and review.
 ## Task 1 – User Authentication with JWT
 
 **Description:**  
-Implementation of a user authentication system using JWT, including registration, login, token verification, and protected routes in nest.js framework.
+Implementation of a user authentication system using JWT, login, token verification, and protected routes in nest.js framework.
 
 **Repository Link:**  
-🔗 https://github.com/YOUR_USERNAME/task-1
+🔗 https://github.com/shadirvan-dev/calc-api-jwt
 
 ---
 
