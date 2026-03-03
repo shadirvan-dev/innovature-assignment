@@ -7,7 +7,7 @@ Each task repository is linked below for easy access and review.
 
 ---
 
-## Task 1 – User Authentication with JWT
+## Task 1 – Calculator Backend with JWT Auth
 
 **Description:**  
 Implementation of a user authentication system using JWT, login, token verification, and protected routes in nest.js framework.
